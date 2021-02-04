@@ -12,6 +12,10 @@ public class Conflict {
 		int m=3;
 		System.out.println(m+n);
 		
+		int c=2;
+		int d=3;
+		System.out.println(c+d);
+		
 	}
 
 }
