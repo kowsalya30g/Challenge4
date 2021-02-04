@@ -9,6 +9,10 @@ public class Conflict {
 		int b=3;
 		System.out.println(a+b);
 		
+		int c=2;
+		int d=3;
+		System.out.println(c+d);
+		
 	}
 
 }
