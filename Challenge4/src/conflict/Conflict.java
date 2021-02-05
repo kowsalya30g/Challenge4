@@ -11,10 +11,14 @@ public class Conflict {
 		int d=3;
 		System.out.println(c+d);
 		System.out.println("kousalya");
+<<<<<<< HEAD
 		int k=2;
 		int l=3;
 		System.out.println(k+l);
 		System.out.println("Kowsalya");
+=======
+		System.out.println("Divya");
+>>>>>>> branch 'master' of https://github.com/kowsalya30g/Challenge4.git
 		
 		
 		
